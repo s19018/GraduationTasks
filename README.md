@@ -35,3 +35,10 @@
 - 開発         ->  11月10日 ~ 12月12日まで     (４週間)
 - 動作確認     ->  12月12日 ~ 12月19日まで     (１週間)
 - プレゼン作成 ->  12月20日 ~ 最後まで         (１週間)
+
+## rink
+
+[企画書](https://docs.google.com/document/d/1iLfU7_JrpabcSSN_cqfh_5VGB9Sy39ECNvVMilVLXpE/edit)
+[ガントチャート](https://docs.google.com/spreadsheets/d/1cWHh2tjTayTVO9BDyCnkVKUffCea85rYP5RU3CqF4aM/edit#gid=1115838130)
+[プレゼンテーション](https://docs.google.com/presentation/d/1_n_2c7lFa7_IBtW2wcF8xhys_CFazBJ3b0i98OMBRQU/edit#slide=id.gd0000f5b5d_0_55)
+[レポート](https://docs.google.com/document/d/1bvK4FOs2j-1PXFHy4Gx7Zf_lS_BYaUllzbKCliX6KRE/edit)
