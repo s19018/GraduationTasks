@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">searchapp</string>
+
+    <string name="tv_name">商品検索</string>
+    <string name="bt_click">検索</string>
+    <string name="tv_winfo_name">商品一覧</string>
+
+    <string name="btn_favorite">ボタン</string>
+</resources>
